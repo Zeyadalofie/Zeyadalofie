@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🧑‍💻 Zeyad saleh alofie
+
+**Data analyses (Machine learning / Deep learning / Neural network)**
 
 <!--
 **Zeyadalofie/Zeyadalofie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
