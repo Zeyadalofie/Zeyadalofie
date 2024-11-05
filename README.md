@@ -13,9 +13,9 @@
 
 <h3 align="center">
  
-    🔭 I'm currently working on Movie reviwes analysis
+    🔭 I'm currently working on **Movie reviwes analysis**
     
-    🌱 I'm currently learning Docker, AI, Deep learning
+    🌱 I'm currently learning **Docker, AI, Deep learning**
    
     💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/Zeyadalofie/Zeyadalofie/issues)**
    
