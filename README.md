@@ -11,7 +11,7 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">
  
     🔭 I’m currently working on **Movie reviwes analysis**
     
@@ -19,7 +19,7 @@
    
    💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/Zeyadalofie/Zeyadalofie/issues)**
    
-</div>
+</h3>
 
 
 <!--
