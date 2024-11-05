@@ -9,6 +9,18 @@
 
 <h3 align="center">A passionate Data analysis from saudi arabia sa</h3>
 
+<br/>
+
+<div align="center">
+ 
+    🔭 I’m currently working on **Movie reviwes analysis**
+    
+    🌱 I’m currently learning **Docker, AI, Deep learning**
+   
+   💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/Zeyadalofie/Zeyadalofie/issues)**
+   
+</div>
+
 
 <!--
 **Zeyadalofie/Zeyadalofie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
